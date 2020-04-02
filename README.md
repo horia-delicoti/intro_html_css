@@ -4,7 +4,7 @@
 
 ### Learn CSS, HTML and Javascript
 
-- [ ] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [X] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [ ] [Make a Website](https://www.codecademy.com/learn/make-a-website)
 
 ### Ruby
