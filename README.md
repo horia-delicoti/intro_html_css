@@ -1,6 +1,6 @@
 ## Ruby on Rails 101
 
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [X] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ### Learn CSS, HTML and Javascript
 
