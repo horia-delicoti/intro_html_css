@@ -5,6 +5,8 @@
 ### Learn CSS, HTML and Javascript
 
 - [X] [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [ ] [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [ ] [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [ ] [Make a Website](https://www.codecademy.com/learn/make-a-website)
 
 ### Ruby
