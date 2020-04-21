@@ -41,6 +41,8 @@ p {
 	text-decoration: none;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     font-size: 1.25em;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+    background-size: cover;
 }
 
 #footer {
