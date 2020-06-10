@@ -10,8 +10,10 @@
 
 ### Ruby
 
-- [ ] [Code School]()
-- [ ] [Learn to Program by Chris Pine]()
+- [ ] [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
+- [ ] [Webapps For Begginners](http://webapps-for-beginners.rubymonstas.org/)
+- [ ] [Learn to Program by Chris Pine](http://www.r-5.org/files/books/computers/languages/ruby/main/Chris_Pine-Learn_to_Program-EN.pdf)
+- [ ] [Learn ruby the hard way](https://learnrubythehardway.org/book/intro.html)
 
 ### Ruby on Rails
 
@@ -35,6 +37,11 @@
 
 
 ---
+### Links
+- [Rails Beginner Cheat Sheet](http://www.pragtob.info/rails-beginner-cheatsheet/index.html) by Tobias Pfeiffer
+- [Ruby Docs Cheat Sheet](http://overapi.com/ruby)
+- [Ruby API documentation](https://ruby-doc.org/core-2.7.1/)
+
 ### Reference
 - [How to Learn Ruby on Rails](https://rubygarage.org/blog/how-to-learn-ruby-on-rails)
 - [Bootstrap](https://getbootstrap.com/)
