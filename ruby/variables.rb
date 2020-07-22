@@ -1,7 +1,4 @@
-number = 1
-puts number
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].select { |num| num.even? }.reverse
+numbers.delete_at(2)
 
-
-number = 4
-number = number * 3
-puts number + 2
+puts numbers

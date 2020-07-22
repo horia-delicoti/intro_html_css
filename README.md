@@ -38,9 +38,10 @@
 
 ---
 ### Links
+- [Ruby - open source programming language](https://www.ruby-lang.org/en/)
+- [Ruby Documentation](https://ruby-doc.org/)
 - [Rails Beginner Cheat Sheet](http://www.pragtob.info/rails-beginner-cheatsheet/index.html) by Tobias Pfeiffer
 - [Ruby Docs Cheat Sheet](http://overapi.com/ruby)
-- [Ruby API documentation](https://ruby-doc.org/core-2.7.1/)
 
 ### Reference
 - [How to Learn Ruby on Rails](https://rubygarage.org/blog/how-to-learn-ruby-on-rails)
